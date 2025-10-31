@@ -1,0 +1,34 @@
+Happy Three Months Baby - Website
+----------------------------------
+
+Files included:
+- index.html
+- style.css
+- script.js
+
+Important:
+1) The site references a music file named: die-for-you-instrumental.mp3
+   - Due to copyright, I could not include the commercial instrumental.
+   - Please add your own copy of "Die For You (Instrumental) - The Weeknd" to the project root and name it exactly:
+       die-for-you-instrumental.mp3
+   - Or replace the filename in index.html with your own audio filename.
+
+2) To deploy locally:
+   - Open index.html in your browser (double-click).
+   - For autoplay music, click "Click to Enter" (this triggers the audio play, bypassing browser autoplay restrictions).
+
+3) To deploy on GitHub Pages:
+   - Create a public repo and upload all files.
+   - (If you want the music to play from GitHub Pages, upload the mp3 to the repo as well — be mindful of copyright and file size limits.)
+   - In Settings -> Pages choose the main branch and root as the folder. The site will be published at https://<your-username>.github.io/<repo-name>/
+
+4) Replace placeholder images/videos:
+   - Replace photo1.jpg, photo2.jpg, video1.mp4, video2.mp4 with your actual files.
+   - If you don't have them yet, those elements remain as placeholders.
+
+If you want, I can:
+- Add a favicon,
+- Replace placeholders with sample images you like,
+- Generate a version without referencing the mp3 (link only).
+
+Enjoy — Angela made this with love. ❤️
